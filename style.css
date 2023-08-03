@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background: #8e4c87;
+header{
+    background-color: purple;
+}
+.hero{
+    background-color: white;
+}
+
+main{
+    background-color: white;
 }
