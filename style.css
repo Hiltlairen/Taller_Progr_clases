@@ -13,3 +13,26 @@ header{
 main{
     background-color: white;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 32;
+    align-items: center;
+}
+.icon-facebook{
+
+    background: url(./asset/facebook.png) no-repeat top left;
+    background-size: 32px;
+}
+.icon-youtube{
+    background: url(./asset/youtube.png) no-repeat top left;
+    background-size: 32px;
+}
+.icon-accesibility{
+    width: 32px;
+    height: 32px;
+    background-position: 0 0;
+}
+.iconos{
+    display: flex;
+}
